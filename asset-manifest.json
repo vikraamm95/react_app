@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react_app/static/css/main.0c9d539e.chunk.css",
+    "main.js": "/react_app/static/js/main.7f31aed4.chunk.js",
+    "main.js.map": "/react_app/static/js/main.7f31aed4.chunk.js.map",
+    "runtime-main.js": "/react_app/static/js/runtime-main.66737652.js",
+    "runtime-main.js.map": "/react_app/static/js/runtime-main.66737652.js.map",
+    "static/js/2.db39837d.chunk.js": "/react_app/static/js/2.db39837d.chunk.js",
+    "static/js/2.db39837d.chunk.js.map": "/react_app/static/js/2.db39837d.chunk.js.map",
+    "static/js/3.4a34e60f.chunk.js": "/react_app/static/js/3.4a34e60f.chunk.js",
+    "static/js/3.4a34e60f.chunk.js.map": "/react_app/static/js/3.4a34e60f.chunk.js.map",
+    "index.html": "/react_app/index.html",
+    "static/css/main.0c9d539e.chunk.css.map": "/react_app/static/css/main.0c9d539e.chunk.css.map",
+    "static/js/2.db39837d.chunk.js.LICENSE.txt": "/react_app/static/js/2.db39837d.chunk.js.LICENSE.txt",
+    "static/media/tenor.e3d67fac.gif": "/react_app/static/media/tenor.e3d67fac.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66737652.js",
+    "static/js/2.db39837d.chunk.js",
+    "static/css/main.0c9d539e.chunk.css",
+    "static/js/main.7f31aed4.chunk.js"
+  ]
+}
